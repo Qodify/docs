@@ -1,3 +1,3 @@
 # docs
 
-[a relative link](./state management.md])
+[link](./state management.md)
